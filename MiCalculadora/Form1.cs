@@ -35,7 +35,11 @@ namespace MiCalculadora
             txtNumero2.Text = "";
             cmbOperador.Text = "Operador";
         }
-
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void btnOperar_Click(object sender, EventArgs e)
         {
             double resultado;

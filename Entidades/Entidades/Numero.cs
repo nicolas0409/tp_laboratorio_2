@@ -54,7 +54,7 @@ namespace Entidades
         /// de no ser valido retornara 0
         /// </summary>
         /// <param name="strNumero">valor a validar</param>
-        /// <returns></returns>
+        /// <returns>el valor numerico del string </returns>
         private static double ValidarNumero(string strNumero)
         {
             double valorRetornar;
@@ -69,26 +69,52 @@ namespace Entidades
         /// </summary>
         /// <param name="n1">primer valor a sumar</param>
         /// <param name="n2">segundo valor a sumar</param>
-        /// <returns></returns>
+        /// <returns> la suma de los numeros pasador por  parametro</returns>
         public static double operator +(Numero n1, Numero n2)
         {
             return n1.numero + n2.numero;
 
         }
-
+        /// <summary>
+        ///  Operacion  para restar el valor numerdo  de s¿ las dos instancias de nuemro pasadas
+        ///  por parametro
+        /// </summary>
+        /// <param name="n1">numero a ser restado</param>
+        /// <param name="n2">numero que resta</param>
+        /// <returns>el valor restado entre n1-n2</returns>
         public static double operator -(Numero n1, Numero n2)
         {
             return n1.numero - n2.numero;
 
         }
+        /// <summary>
+        /// Operacion que multiplica  lo valores nuemricos  de las instancias
+        /// de la clase de  tipo numero 
+        /// </summary>
+        /// <param name="n1">valor a multipllicar</param>
+        /// <param name="n2">valor a multipllicar</param>
+        /// <returns>el valor numerico de la multiplicacion entre n1 y n2</returns>
         public static double operator *(Numero n1, Numero n2)
         {
             return n1.numero * n2.numero;
         }
+        /// <summary>
+        ///  Ejecuta la operacion de division entre el valor numerico de 
+        ///  dos instancias de clase de tipo Numero pasadas por parametro
+        /// </summary>
+        /// <param name="n1">instancia de numero para  ser el divisor</param>
+        /// <param name="n2">instancia e¿de nuemero para se el dividendo</param>
+        /// <returns>El resultado de la divison  entre n1/n2</returns>
         public static double operator /(Numero n1, Numero n2)
         {
             return n1.numero / n2.numero;
         }
+        /// <summary>
+        /// Convierte el decimal pasado por  parametro a binario
+        /// </summary>
+        /// <param name="decimal1">decimal a convertir</param>
+        /// <returns>El valor del decimal en binario si se pudo convertir en caso contrario 
+        /// retorna "VALOR NO VALIDO"</returns>
         public static string DecimalBinario(double decimal1)
         {
             double resultado;
@@ -127,7 +153,12 @@ namespace Entidades
             }
              
         }
-
+        /// <summary>
+        /// Convierte el string pasado por  parametro a binario
+        /// </summary>
+        /// <param name="Decimal">Valor a convertir</param>
+        /// <returns>El valor del decimal en binario si se pudo convertir en caso contrario 
+        /// retorna "VALOR NO VALIDO"</returns>
         public static string DecimalBinario(string Decimal)
         {
 
@@ -135,6 +166,13 @@ namespace Entidades
             double.TryParse(Decimal, out numero);
            return DecimalBinario(numero);
         }
+        /// <summary>
+        /// Convierte el string pasado por parametro a un string con su valor convertido
+        /// de binario a decimal
+        /// </summary>
+        /// <param name="binario">string a convertir</param>
+        /// <returns>retorna el valor conrtido  en decimal  del string si pudo convertirlo en 
+        /// caso contrario retorna"VALOR NO VALIDO"</returns>
         public static string BinarioADecimal(string binario)
         {
             int index;
@@ -174,6 +212,12 @@ namespace Entidades
             else
                 return "VALOR NO VALIDO";
         }
+        /// <summary>
+        /// Valida que el string  sea un numero binario valido
+        /// </summary>
+        /// <param name="binario">stirng a validar</param>
+        /// <returns>retorna true si  el string contiene un numero binario valido
+        /// caso contrario retorna false</returns>
         private static bool ValidoBinario(string binario)
         {
             bool flag = true;
@@ -187,6 +231,12 @@ namespace Entidades
             }
             return flag;
         }
+        /// <summary>
+        /// valida  si el valor de  decimal1 se puede convertir a entero
+        /// </summary>
+        /// <param name="decimal1">Numero a validar</param>
+        /// <returns>retorna true si el decimal1 es un numero convertible a entero,
+        /// false caso contrario  </returns>
         private static bool ValidoDecimal(double decimal1)
         {
             bool flag = true;

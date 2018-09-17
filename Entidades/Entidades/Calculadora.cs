@@ -8,6 +8,14 @@ namespace Entidades
 {
    public class Calculadora
     {
+        /// <summary>
+        /// metodo  que recibe 2 obejtos tipo Numero  y retorna el valor de la operacion
+        /// pasada por parametro
+        /// </summary>
+        /// <param name="num1">Numero1 a operar</param>
+        /// <param name="num2">Numero2 a operar</param>
+        /// <param name="operador">operacion elejida </param>
+        /// <returns></returns>
         public Double Operar(Numero num1, Numero num2, string operador)
         {
             double resultado;
@@ -33,6 +41,12 @@ namespace Entidades
             }
             return resultado;
         }
+        /// <summary>
+        /// metodo para validar el valor del operador sea uno dentro de los que estan definidos
+        /// retorna  el operador valido   de no ser vaalido el operador retornara +
+        /// </summary>
+        /// <param name="operador">String con el valor del operador</param>
+        /// <returns></returns>
         private static string Validar(string operador)
         {
             switch (operador)
