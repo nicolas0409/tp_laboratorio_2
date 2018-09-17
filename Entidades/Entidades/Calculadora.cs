@@ -14,8 +14,9 @@ namespace Entidades
         /// </summary>
         /// <param name="num1">Numero1 a operar</param>
         /// <param name="num2">Numero2 a operar</param>
-        /// <param name="operador">operacion elejida </param>
-        /// <returns></returns>
+        /// <param name="operador">operacion elejida para ser calcuada con los parametros 
+        /// </param>  num1 y num2
+        /// <returns>Resultado de la operacion realizada</returns>
         public Double Operar(Numero num1, Numero num2, string operador)
         {
             double resultado;
@@ -46,7 +47,7 @@ namespace Entidades
         /// retorna  el operador valido   de no ser vaalido el operador retornara +
         /// </summary>
         /// <param name="operador">String con el valor del operador</param>
-        /// <returns></returns>
+        /// <returns>el operador  validado o "+" en caso de no ser valido</returns>
         private static string Validar(string operador)
         {
             switch (operador)
