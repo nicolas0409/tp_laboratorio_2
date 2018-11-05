@@ -13,7 +13,29 @@ namespace ClasesInstanciables
         private Universidad.EClases clase;
         private List<Alumno> alumnos;
         private Profesor instructor;
+        #region "constructores"
+        /// <summary>
+        /// constructor de instancia crea la lista de alumnos
+        /// </summary>
+        private Jornada()
+        {
+            alumnos = new List<Alumno>();
 
+        }
+        /// <summary>
+        /// constructor de instancia
+        /// </summary>
+        /// <param name="clase"></param>
+        /// <param name="instructor"></param>
+        public Jornada(Universidad.EClases clase, Profesor instructor) : this()
+        {
+            this.Clase = clase;
+            this.Instructor = instructor;
+        }
+        #endregion
+        /// <summary>
+        ///  propiedad  que retorna y setea la lista de alumnos
+        /// </summary>
         public List<Alumno> Alumnos
         {
             get
@@ -23,6 +45,9 @@ namespace ClasesInstanciables
             set { this.alumnos = value; }
 
         }
+        /// <summary>
+        /// prpiedad que retorna y setea la clase d ela jornada
+        /// </summary>
         public Universidad.EClases Clase
             {   
             get
@@ -36,6 +61,9 @@ namespace ClasesInstanciables
             }
 
             }
+        /// <summary>
+        /// propiedad  que retorna y setea el instructor de la jornada
+        /// </summary>
         public Profesor Instructor
         {
             get
@@ -49,16 +77,10 @@ namespace ClasesInstanciables
         }
         
 
-        private Jornada()
-        {
-            alumnos = new List<Alumno>();
-            
-        }
-        public Jornada(Universidad.EClases clase,Profesor instructor):this()
-        {
-            this.Clase = clase;
-            this.Instructor = instructor;
-        }
+        /// <summary>
+        /// retorna todos los datos de la jornada
+        /// </summary>
+        /// <returns></returns>
         public override string ToString()
         {
             StringBuilder datos = new StringBuilder();

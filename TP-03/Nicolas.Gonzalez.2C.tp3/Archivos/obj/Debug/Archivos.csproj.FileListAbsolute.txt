@@ -16,3 +16,12 @@ C:\Users\nico0\Desktop\Nicolas.Gonzalez.2C.tp3\Archivos\obj\Debug\Archivos.cspro
 C:\Users\nico0\Desktop\Nicolas.Gonzalez.2C.tp3\Archivos\obj\Debug\Archivos.csproj.CopyComplete
 C:\Users\nico0\Desktop\Nicolas.Gonzalez.2C.tp3\Archivos\obj\Debug\Archivos.dll
 C:\Users\nico0\Desktop\Nicolas.Gonzalez.2C.tp3\Archivos\obj\Debug\Archivos.pdb
+C:\Users\nico0\Desktop\tp_laboratorio_2\TP-03\Nicolas.Gonzalez.2C.tp3\Archivos\bin\Debug\Archivos.dll
+C:\Users\nico0\Desktop\tp_laboratorio_2\TP-03\Nicolas.Gonzalez.2C.tp3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\nico0\Desktop\tp_laboratorio_2\TP-03\Nicolas.Gonzalez.2C.tp3\Archivos\bin\Debug\Excepciones.dll
+C:\Users\nico0\Desktop\tp_laboratorio_2\TP-03\Nicolas.Gonzalez.2C.tp3\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\nico0\Desktop\tp_laboratorio_2\TP-03\Nicolas.Gonzalez.2C.tp3\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\nico0\Desktop\tp_laboratorio_2\TP-03\Nicolas.Gonzalez.2C.tp3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\nico0\Desktop\tp_laboratorio_2\TP-03\Nicolas.Gonzalez.2C.tp3\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+C:\Users\nico0\Desktop\tp_laboratorio_2\TP-03\Nicolas.Gonzalez.2C.tp3\Archivos\obj\Debug\Archivos.dll
+C:\Users\nico0\Desktop\tp_laboratorio_2\TP-03\Nicolas.Gonzalez.2C.tp3\Archivos\obj\Debug\Archivos.pdb

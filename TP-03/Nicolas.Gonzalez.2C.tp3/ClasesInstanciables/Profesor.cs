@@ -13,6 +13,9 @@ namespace ClasesInstanciables
         private Queue<Universidad.EClases> clasesDelDia;
         private static Random random;
 
+        /// <summary>
+        /// asigna una clase random  al profesor
+        /// </summary>
         private void  _randomClases()
         {
           
@@ -23,16 +26,29 @@ namespace ClasesInstanciables
                 
             }
         }
-        
+        /// <summary>
+        /// constructor de clase
+        /// </summary>
           static Profesor()
         {
             random = new Random();
 
         }
+        /// <summary>
+        /// constructor de instancia
+        /// </summary>
         public Profesor():this(0," "," ","1",ENacionalidad.Argentino)
         {
            
         }
+        /// <summary>
+        /// constructor de instancia
+        /// </summary>
+        /// <param name="id"></param>
+        /// <param name="nombre"></param>
+        /// <param name="apellido"></param>
+        /// <param name="dni"></param>
+        /// <param name="nacionalidad"></param>
         public Profesor(int id,string nombre,string apellido,string dni,ENacionalidad nacionalidad):base(id,nombre,apellido,dni,nacionalidad)
         {
             this.clasesDelDia = new Queue<Universidad.EClases>();
