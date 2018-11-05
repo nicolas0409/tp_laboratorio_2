@@ -1,0 +1,11 @@
+D:\Ejercicio_Clase5\Nicolas.Gonzalez.2C.tp3\Excepciones\bin\Debug\Excepciones.dll
+D:\Ejercicio_Clase5\Nicolas.Gonzalez.2C.tp3\Excepciones\bin\Debug\Excepciones.pdb
+D:\Ejercicio_Clase5\Nicolas.Gonzalez.2C.tp3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+D:\Ejercicio_Clase5\Nicolas.Gonzalez.2C.tp3\Excepciones\obj\Debug\Excepciones.dll
+D:\Ejercicio_Clase5\Nicolas.Gonzalez.2C.tp3\Excepciones\obj\Debug\Excepciones.pdb
+C:\Users\nico0\Desktop\Nicolas.Gonzalez.2C.tp3\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\nico0\Desktop\Nicolas.Gonzalez.2C.tp3\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\nico0\Desktop\Nicolas.Gonzalez.2C.tp3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\nico0\Desktop\Nicolas.Gonzalez.2C.tp3\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\nico0\Desktop\Nicolas.Gonzalez.2C.tp3\Excepciones\obj\Debug\Excepciones.pdb
+C:\Users\nico0\Desktop\Nicolas.Gonzalez.2C.tp3\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
