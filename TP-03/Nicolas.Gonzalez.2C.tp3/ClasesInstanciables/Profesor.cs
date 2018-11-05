@@ -15,11 +15,11 @@ namespace ClasesInstanciables
 
         private void  _randomClases()
         {
-           // Array array;
+          
             for (int i = 0; i < 2; i++)
             {
               this.clasesDelDia.Enqueue((Universidad.EClases)Profesor.random.Next(0, 3));
-               // array = Enum.GetValues(typeof(Universidad.EClases));
+             
                 
             }
         }
@@ -29,10 +29,9 @@ namespace ClasesInstanciables
             random = new Random();
 
         }
-        public Profesor():base()
+        public Profesor():this(0," "," ","1",ENacionalidad.Argentino)
         {
-            this.clasesDelDia = new Queue<Universidad.EClases>();
-            this._randomClases();
+           
         }
         public Profesor(int id,string nombre,string apellido,string dni,ENacionalidad nacionalidad):base(id,nombre,apellido,dni,nacionalidad)
         {

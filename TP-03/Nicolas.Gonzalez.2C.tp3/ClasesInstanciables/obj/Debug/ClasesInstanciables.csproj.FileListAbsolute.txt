@@ -24,3 +24,16 @@ C:\Users\nico0\Desktop\Nicolas.Gonzalez.2C.tp3\ClasesInstanciables\obj\Debug\Cla
 C:\Users\nico0\Desktop\Nicolas.Gonzalez.2C.tp3\ClasesInstanciables\obj\Debug\ClasesInstanciables.csproj.CopyComplete
 C:\Users\nico0\Desktop\Nicolas.Gonzalez.2C.tp3\ClasesInstanciables\obj\Debug\ClasesInstanciables.dll
 C:\Users\nico0\Desktop\Nicolas.Gonzalez.2C.tp3\ClasesInstanciables\obj\Debug\ClasesInstanciables.pdb
+C:\Users\nico0\Desktop\tp_laboratorio_2-master\TP-03\Nicolas.Gonzalez.2C.tp3\ClasesInstanciables\bin\Debug\ClasesInstanciables.dll
+C:\Users\nico0\Desktop\tp_laboratorio_2-master\TP-03\Nicolas.Gonzalez.2C.tp3\ClasesInstanciables\bin\Debug\ClasesInstanciables.pdb
+C:\Users\nico0\Desktop\tp_laboratorio_2-master\TP-03\Nicolas.Gonzalez.2C.tp3\ClasesInstanciables\bin\Debug\Archivos.dll
+C:\Users\nico0\Desktop\tp_laboratorio_2-master\TP-03\Nicolas.Gonzalez.2C.tp3\ClasesInstanciables\bin\Debug\ClasesAbstractas.dll
+C:\Users\nico0\Desktop\tp_laboratorio_2-master\TP-03\Nicolas.Gonzalez.2C.tp3\ClasesInstanciables\bin\Debug\Excepciones.dll
+C:\Users\nico0\Desktop\tp_laboratorio_2-master\TP-03\Nicolas.Gonzalez.2C.tp3\ClasesInstanciables\bin\Debug\Archivos.pdb
+C:\Users\nico0\Desktop\tp_laboratorio_2-master\TP-03\Nicolas.Gonzalez.2C.tp3\ClasesInstanciables\bin\Debug\ClasesAbstractas.pdb
+C:\Users\nico0\Desktop\tp_laboratorio_2-master\TP-03\Nicolas.Gonzalez.2C.tp3\ClasesInstanciables\bin\Debug\Excepciones.pdb
+C:\Users\nico0\Desktop\tp_laboratorio_2-master\TP-03\Nicolas.Gonzalez.2C.tp3\ClasesInstanciables\obj\Debug\ClasesInstanciables.csprojAssemblyReference.cache
+C:\Users\nico0\Desktop\tp_laboratorio_2-master\TP-03\Nicolas.Gonzalez.2C.tp3\ClasesInstanciables\obj\Debug\ClasesInstanciables.csproj.CoreCompileInputs.cache
+C:\Users\nico0\Desktop\tp_laboratorio_2-master\TP-03\Nicolas.Gonzalez.2C.tp3\ClasesInstanciables\obj\Debug\ClasesInstanciables.csproj.CopyComplete
+C:\Users\nico0\Desktop\tp_laboratorio_2-master\TP-03\Nicolas.Gonzalez.2C.tp3\ClasesInstanciables\obj\Debug\ClasesInstanciables.dll
+C:\Users\nico0\Desktop\tp_laboratorio_2-master\TP-03\Nicolas.Gonzalez.2C.tp3\ClasesInstanciables\obj\Debug\ClasesInstanciables.pdb

@@ -13,6 +13,12 @@ namespace Archivos
     public class Xml<T> : IArchivo<T>
     {
         #region "metodos"
+        /// <summary>
+        ///  funcion para guardar un archivo xml y desde un tipo de dato gnerico
+        /// </summary>
+        /// <param name="archivo">nombre y/o ruta del archivo</param>
+        /// <param name="datos">variable  con los datos a guardar en el archivo </param>
+        /// <returns></returns>
         public bool Guardar(string archivo, T datos)
         {
             XmlSerializer serializer;
@@ -43,7 +49,13 @@ namespace Archivos
             return flag;  
            
         }
-
+        /// <summary>
+        /// funcion para leer un archivo xml y  guardar los datos
+        /// en un tipo de dato gnerico
+        /// </summary>
+        /// <param name="archivo">ruta  y/o nombre del archivo</param>
+        /// <param name="datos">variable donde se asignara los datos leidos del archivo</param>
+        /// <returns>retorna true si pudo leer el archiivo en caso  contrario retorna false</returns>
         public bool Leer(string archivo, out T datos)
         {
             XmlSerializer serializer;
@@ -78,6 +90,10 @@ namespace Archivos
         }
         #endregion
         #region "constructores"
+
+        /// <summary>
+        /// constructor por defecto
+        /// </summary>
         public Xml()
         {
 

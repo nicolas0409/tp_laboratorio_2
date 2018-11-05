@@ -4,7 +4,7 @@ Nacionalidad:Argentino
 LEGAJO NÚMERO:1
 
 CLASES DEL DIA
-Programacion
+Legislacion
 Programacion
 
 ALUMNOS:

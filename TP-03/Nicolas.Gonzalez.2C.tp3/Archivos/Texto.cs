@@ -9,6 +9,12 @@ namespace Archivos
 {
     public class Texto : IArchivo<string>
     {
+        /// <summary>
+        /// funcion para guardar un archivo  txt
+        /// </summary>
+        /// <param name="archivo">nombre  y/o ruta del archivo</param>
+        /// <param name="datos"> cadena de caracteres para  guardar en el archivo</param>
+        /// <returns>retorna true si pudo guardar el archiivo en caso  contrario retorna false</returns>
         public bool Guardar(string archivo, string  datos)
         {
             StreamWriter streamGuardar = null;
@@ -33,7 +39,12 @@ namespace Archivos
             }
             return flag;
 }
-
+        /// <summary>
+        /// funcion  para leer de un archivo txt
+        /// </summary>
+        /// <param name="archivo">ruto y/o nombre del archivo</param>
+        /// <param name="datos"> varible  donde se guardaran los datos</param>
+        /// <returns>retorna true si pudo leer el archiivo en caso  contrario retorna false</returns>
         public  bool Leer(string archivo,out string datos)
         {
             datos = default(string);

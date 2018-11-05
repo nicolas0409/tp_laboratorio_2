@@ -54,9 +54,10 @@ namespace UnitTestTP03
         public void TestMethod4()
         {
             //arrangue
-            Alumno a = new Alumno(1, "nicolas", "gonzalez", "12344543", EntidadesAbstractas.Persona.ENacionalidad.Argentino, Universidad.EClases.Legislacion);
+            
             int num;
             //act
+            Alumno a = new Alumno(1, "nicolas", "gonzalez", "12344543", EntidadesAbstractas.Persona.ENacionalidad.Argentino, Universidad.EClases.Legislacion);
 
             //assert
             Assert.IsTrue(a.Dni>=1&& a.Dni<= 99999999,"valor numerico fuera de rango");

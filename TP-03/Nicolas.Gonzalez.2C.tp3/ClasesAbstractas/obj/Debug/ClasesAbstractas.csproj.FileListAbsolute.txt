@@ -16,3 +16,12 @@ C:\Users\nico0\Desktop\Nicolas.Gonzalez.2C.tp3\ClasesAbstractas\obj\Debug\Clases
 C:\Users\nico0\Desktop\Nicolas.Gonzalez.2C.tp3\ClasesAbstractas\obj\Debug\ClasesAbstractas.csproj.CopyComplete
 C:\Users\nico0\Desktop\Nicolas.Gonzalez.2C.tp3\ClasesAbstractas\obj\Debug\ClasesAbstractas.dll
 C:\Users\nico0\Desktop\Nicolas.Gonzalez.2C.tp3\ClasesAbstractas\obj\Debug\ClasesAbstractas.pdb
+C:\Users\nico0\Desktop\tp_laboratorio_2-master\TP-03\Nicolas.Gonzalez.2C.tp3\ClasesAbstractas\bin\Debug\ClasesAbstractas.dll
+C:\Users\nico0\Desktop\tp_laboratorio_2-master\TP-03\Nicolas.Gonzalez.2C.tp3\ClasesAbstractas\bin\Debug\ClasesAbstractas.pdb
+C:\Users\nico0\Desktop\tp_laboratorio_2-master\TP-03\Nicolas.Gonzalez.2C.tp3\ClasesAbstractas\bin\Debug\Excepciones.dll
+C:\Users\nico0\Desktop\tp_laboratorio_2-master\TP-03\Nicolas.Gonzalez.2C.tp3\ClasesAbstractas\bin\Debug\Excepciones.pdb
+C:\Users\nico0\Desktop\tp_laboratorio_2-master\TP-03\Nicolas.Gonzalez.2C.tp3\ClasesAbstractas\obj\Debug\ClasesAbstractas.csprojAssemblyReference.cache
+C:\Users\nico0\Desktop\tp_laboratorio_2-master\TP-03\Nicolas.Gonzalez.2C.tp3\ClasesAbstractas\obj\Debug\ClasesAbstractas.csproj.CoreCompileInputs.cache
+C:\Users\nico0\Desktop\tp_laboratorio_2-master\TP-03\Nicolas.Gonzalez.2C.tp3\ClasesAbstractas\obj\Debug\ClasesAbstractas.csproj.CopyComplete
+C:\Users\nico0\Desktop\tp_laboratorio_2-master\TP-03\Nicolas.Gonzalez.2C.tp3\ClasesAbstractas\obj\Debug\ClasesAbstractas.dll
+C:\Users\nico0\Desktop\tp_laboratorio_2-master\TP-03\Nicolas.Gonzalez.2C.tp3\ClasesAbstractas\obj\Debug\ClasesAbstractas.pdb
