@@ -1,0 +1,13 @@
+C:\Users\nico0\source\repos\Nicolas.Gonzalez.2c2\Nicolas.Gonzalez.2c2\bin\Debug\Nicolas.Gonzalez.2c2.exe.config
+C:\Users\nico0\source\repos\Nicolas.Gonzalez.2c2\Nicolas.Gonzalez.2c2\bin\Debug\Nicolas.Gonzalez.2c2.exe
+C:\Users\nico0\source\repos\Nicolas.Gonzalez.2c2\Nicolas.Gonzalez.2c2\bin\Debug\Nicolas.Gonzalez.2c2.pdb
+C:\Users\nico0\source\repos\Nicolas.Gonzalez.2c2\Nicolas.Gonzalez.2c2\obj\Debug\MainCorreo.csprojAssemblyReference.cache
+C:\Users\nico0\source\repos\Nicolas.Gonzalez.2c2\Nicolas.Gonzalez.2c2\obj\Debug\Nicolas.Gonzalez._2c2.FrmPpal.resources
+C:\Users\nico0\source\repos\Nicolas.Gonzalez.2c2\Nicolas.Gonzalez.2c2\obj\Debug\Nicolas.Gonzalez._2c2.Properties.Resources.resources
+C:\Users\nico0\source\repos\Nicolas.Gonzalez.2c2\Nicolas.Gonzalez.2c2\obj\Debug\MainCorreo.csproj.GenerateResource.cache
+C:\Users\nico0\source\repos\Nicolas.Gonzalez.2c2\Nicolas.Gonzalez.2c2\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
+C:\Users\nico0\source\repos\Nicolas.Gonzalez.2c2\Nicolas.Gonzalez.2c2\obj\Debug\Nicolas.Gonzalez.2c2.exe
+C:\Users\nico0\source\repos\Nicolas.Gonzalez.2c2\Nicolas.Gonzalez.2c2\obj\Debug\Nicolas.Gonzalez.2c2.pdb
+C:\Users\nico0\source\repos\Nicolas.Gonzalez.2c2\Nicolas.Gonzalez.2c2\bin\Debug\Entidades.dll
+C:\Users\nico0\source\repos\Nicolas.Gonzalez.2c2\Nicolas.Gonzalez.2c2\bin\Debug\Entidades.pdb
+C:\Users\nico0\source\repos\Nicolas.Gonzalez.2c2\Nicolas.Gonzalez.2c2\obj\Debug\MainCorreo.csproj.CopyComplete
